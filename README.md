@@ -2,7 +2,7 @@
 
 ------------
 
-## Dharma Protocol React Starter Kit
+## Dharma Protocol Diversify Order
 
 This repository contains all the tools you need to quickly start hacking an application on top of Dharma protocol.
 
@@ -18,6 +18,8 @@ We recommend brushing up on the basics of Dharma protocol before diving in -- a 
 [Join us on our chat](https://chat.dharma.io) for any technical or general questions.
 
 > [Dharma](https://dharma.io) is a protocol for generic tokenized debt issuance and fundraising on blockchains supporting requisite smart contract functionality (i.e. EVM blockchains).  For a full description of the protocol's mechanics, a thorough overview can be found in the [Dharma Protocol Whitepaper](https://whitepaper.dharma.io/).  
+
+This repository allows a creditor to send his Dharma token to a smart contract that will divest his order for him. By allowing other investors to take a share of the profits, the creditor can lower his risk and use the extra money to fund other debt orders. Thus diversifying his portfolio.
 
 ### Setup
 ---------------
